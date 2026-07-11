@@ -1,5 +1,5 @@
 # From-Data-to-Decisions-Retail-Performance-Analysis
-## Decoding  Sales, Profit Leakage, Delivery Bottlenecks, Trends &amp; Insights
+## Title: Decoding  Sales, Profit Leakage, Delivery Bottlenecks, Trends &amp; Insights
 
 - [Executive Summary](#executive-summary)
 - [Project Overview](#project-overview)
