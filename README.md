@@ -163,13 +163,13 @@ Page 2 — Delivery Performance
 
 Displays average delivery days (34.62), fastest delivery (0 days), slowest delivery (214 days), best ship mode (Same Day), and slowest ship mode (Standard Class). Features a monthly average delivery trend line chart with 3-month rolling average and dynamic insight brief. The delivery table visual includes SVG pill badges for Days, Status, Bottleneck Rating, and Speed Score per order.
  
-![Return rate](Return.png)
+![Delivery performance](DeliveryPerformance.png)
  
 Page 3 — Return Analysis
 
 Shows overall return rate (8.0%), total returned orders (800), total not returned (9,194), lowest return ship mode (Second Class at 6.9%), highest return ship mode (Same Day at 11.8%), and best salesperson (Kelly Williams at 4.0%). Includes return rate by sub-category, ship mode, regional donut chart, salesperson performance visual, and a returns over time trend line.
- 
-![Delivery performance](DeliveryPerformance.png)
+
+![Return rate](Return.png)
 
 **Recommendations**
  
