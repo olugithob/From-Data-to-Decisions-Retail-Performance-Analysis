@@ -95,8 +95,8 @@ One-to-many relationships were established between the fact table and each dimen
 Three interactive Power BI dashboard pages were developed to uncover the following business insights:
 
 • Page 1 — Overview & Profitability: Revenue, profit, product distribution, top customers
-• Page 2 — Delivery Performance: Ship mode analysis, bottleneck detection, delivery trend
 • Page 3 — Return Analysis: Return rates by ship mode, salesperson, sub-category, and region
+ Page 2 — Delivery Performance: Ship mode analysis, bottleneck detection, delivery trend
  
 **Exploratory Data Analysis**
 
